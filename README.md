@@ -11,6 +11,8 @@ It is intended to be small so that it can be easily copied into C++ unit test pr
 
 **Dependencies**: mmap
 
+**Contributions**: If you have an idea to improve it, you are welcome!
+
 Just copy this into your test program:
 
 ```C
